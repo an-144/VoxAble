@@ -1,0 +1,35 @@
+name: VoxAble Assistive Communication Device
+version: 1.0
+license: CERN-OHL-S-2.0
+author:
+  name: Anwesha Mazumdar
+  contact: anwesha.mazumdar06@gmail.com
+documentation:
+  readme: https://github.com/an-144/VoxAble/blob/main/README.md
+  design_files:
+    - enclosure design.step
+    - enclosure design.stl
+    - schematic.png
+  assembly: Assembly instructions.text
+  bom: Hardware components.xlsx
+  images:
+    - image of device front.jpg
+    - breadboard photo 1.png
+keywords:
+  - assistive technology
+  - AAC
+  - open hardware
+  - Arduino Nano
+  - DFPlayer Mini
+scope:
+  - 3D enclosure design
+  - wiring plan
+  - assembly documentation
+non_open_components:
+  - Arduino Nano
+  - DFPlayer Mini
+  - 3W speaker
+  - membrane keypad
+country: Singapore
+repository: https://github.com/an-144/VoxAble
+license_url: https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
