@@ -1,0 +1,35 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)
+-----------------------------------------------------------------------------
+
+Copyright © 2025 Shantanu Mazumdar
+
+This documentation, design files, and associated materials describe Open Hardware
+and are licensed under the CERN-OHL-S v2.0.
+
+You may redistribute and modify these materials under the terms of the CERN-OHL-S v2.
+This licence ensures that any modified versions or derivative works must also remain
+open and be distributed under the same licence.
+
+The complete licence text is available at:
+https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
+
+Summary of key points:
+1. You are free to use, study, modify, and manufacture this hardware.
+2. You must provide access to the original or modified source design files when you
+   distribute physical products or modified versions.
+3. You must retain this licence notice and credit the original author.
+4. Any derivative design must be released under the same CERN-OHL-S v2.0 licence.
+5. This licence covers only the original work (custom 3D enclosure, wiring layout,
+   and assembly documentation). Off-the-shelf components such as Arduino Nano,
+   DFPlayer Mini, and speakers are used under their respective manufacturer terms.
+
+NO WARRANTY: This documentation and design are provided “as is” without any express
+or implied warranty, including but not limited to merchantability, fitness for a
+particular purpose, or non-infringement.
+
+For the full legal text, see:
+https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
+
+-----------------------------------------------------------------------------
+
+End of CERN-OHL-S v2.0 licence notice
